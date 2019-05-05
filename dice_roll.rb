@@ -1,3 +1,3 @@
 def roll
-  (roll).to be_a(1...6)
+  [1,2,3,4,5,6].sample
 end
